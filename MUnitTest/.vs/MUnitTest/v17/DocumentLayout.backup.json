@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnitTest\\MUnitTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1C3BA0-FD26-4195-9FB6-1B8EF1754845}|SW.Payroll\\SW.Payroll.csproj|d:\\unittest\\munittest\\sw.payroll\\calculation\\salaryslipprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1C3BA0-FD26-4195-9FB6-1B8EF1754845}|SW.Payroll\\SW.Payroll.csproj|solutionrelative:sw.payroll\\calculation\\salaryslipprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1C3BA0-FD26-4195-9FB6-1B8EF1754845}|SW.Payroll\\SW.Payroll.csproj|d:\\unittest\\munittest\\sw.payroll\\enums\\healthinsurancepackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1C3BA0-FD26-4195-9FB6-1B8EF1754845}|SW.Payroll\\SW.Payroll.csproj|solutionrelative:sw.payroll\\enums\\healthinsurancepackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalarySlipProcessor.cs",
+              "DocumentMoniker": "D:\\UnitTest\\MUnitTest\\SW.Payroll\\Calculation\\SalarySlipProcessor.cs",
+              "RelativeDocumentMoniker": "SW.Payroll\\Calculation\\SalarySlipProcessor.cs",
+              "ToolTip": "D:\\UnitTest\\MUnitTest\\SW.Payroll\\Calculation\\SalarySlipProcessor.cs",
+              "RelativeToolTip": "SW.Payroll\\Calculation\\SalarySlipProcessor.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:04:41.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HealthInsurancePackage.cs",
+              "DocumentMoniker": "D:\\UnitTest\\MUnitTest\\SW.Payroll\\Enums\\HealthInsurancePackage.cs",
+              "RelativeDocumentMoniker": "SW.Payroll\\Enums\\HealthInsurancePackage.cs",
+              "ToolTip": "D:\\UnitTest\\MUnitTest\\SW.Payroll\\Enums\\HealthInsurancePackage.cs",
+              "RelativeToolTip": "SW.Payroll\\Enums\\HealthInsurancePackage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:03:29.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

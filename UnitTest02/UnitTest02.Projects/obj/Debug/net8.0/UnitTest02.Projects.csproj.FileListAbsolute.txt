@@ -1,0 +1,14 @@
+D:\UnitTest\UnitTest02\UnitTest02.Projects\bin\Debug\net8.0\UnitTest02.Projects.exe
+D:\UnitTest\UnitTest02\UnitTest02.Projects\bin\Debug\net8.0\UnitTest02.Projects.deps.json
+D:\UnitTest\UnitTest02\UnitTest02.Projects\bin\Debug\net8.0\UnitTest02.Projects.runtimeconfig.json
+D:\UnitTest\UnitTest02\UnitTest02.Projects\bin\Debug\net8.0\UnitTest02.Projects.dll
+D:\UnitTest\UnitTest02\UnitTest02.Projects\bin\Debug\net8.0\UnitTest02.Projects.pdb
+D:\UnitTest\UnitTest02\UnitTest02.Projects\obj\Debug\net8.0\UnitTest02.Projects.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnitTest\UnitTest02\UnitTest02.Projects\obj\Debug\net8.0\UnitTest02.Projects.AssemblyInfoInputs.cache
+D:\UnitTest\UnitTest02\UnitTest02.Projects\obj\Debug\net8.0\UnitTest02.Projects.AssemblyInfo.cs
+D:\UnitTest\UnitTest02\UnitTest02.Projects\obj\Debug\net8.0\UnitTest02.Projects.csproj.CoreCompileInputs.cache
+D:\UnitTest\UnitTest02\UnitTest02.Projects\obj\Debug\net8.0\UnitTest02.Projects.dll
+D:\UnitTest\UnitTest02\UnitTest02.Projects\obj\Debug\net8.0\refint\UnitTest02.Projects.dll
+D:\UnitTest\UnitTest02\UnitTest02.Projects\obj\Debug\net8.0\UnitTest02.Projects.pdb
+D:\UnitTest\UnitTest02\UnitTest02.Projects\obj\Debug\net8.0\UnitTest02.Projects.genruntimeconfig.cache
+D:\UnitTest\UnitTest02\UnitTest02.Projects\obj\Debug\net8.0\ref\UnitTest02.Projects.dll

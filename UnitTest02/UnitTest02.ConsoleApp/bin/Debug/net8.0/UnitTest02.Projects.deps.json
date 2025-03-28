@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UnitTest02.Projects/1.0.0": {
+        "runtime": {
+          "UnitTest02.Projects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UnitTest02.Projects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

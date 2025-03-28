@@ -1,0 +1,14 @@
+D:\UnitTest\MUnitTest\SW.Payroll\bin\Debug\net8.0\SW.Payroll.exe
+D:\UnitTest\MUnitTest\SW.Payroll\bin\Debug\net8.0\SW.Payroll.deps.json
+D:\UnitTest\MUnitTest\SW.Payroll\bin\Debug\net8.0\SW.Payroll.runtimeconfig.json
+D:\UnitTest\MUnitTest\SW.Payroll\bin\Debug\net8.0\SW.Payroll.dll
+D:\UnitTest\MUnitTest\SW.Payroll\bin\Debug\net8.0\SW.Payroll.pdb
+D:\UnitTest\MUnitTest\SW.Payroll\obj\Debug\net8.0\SW.Payroll.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnitTest\MUnitTest\SW.Payroll\obj\Debug\net8.0\SW.Payroll.AssemblyInfoInputs.cache
+D:\UnitTest\MUnitTest\SW.Payroll\obj\Debug\net8.0\SW.Payroll.AssemblyInfo.cs
+D:\UnitTest\MUnitTest\SW.Payroll\obj\Debug\net8.0\SW.Payroll.csproj.CoreCompileInputs.cache
+D:\UnitTest\MUnitTest\SW.Payroll\obj\Debug\net8.0\SW.Payroll.dll
+D:\UnitTest\MUnitTest\SW.Payroll\obj\Debug\net8.0\refint\SW.Payroll.dll
+D:\UnitTest\MUnitTest\SW.Payroll\obj\Debug\net8.0\SW.Payroll.pdb
+D:\UnitTest\MUnitTest\SW.Payroll\obj\Debug\net8.0\SW.Payroll.genruntimeconfig.cache
+D:\UnitTest\MUnitTest\SW.Payroll\obj\Debug\net8.0\ref\SW.Payroll.dll
